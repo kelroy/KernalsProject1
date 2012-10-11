@@ -11,6 +11,9 @@ This is a simple c program designed for the DE-2 altera FPGA running the NIOS-II
 
 
 Project description http://www.cse.unl.edu/~witty/class/csce351/Project/Part1/project1.htm
+
 Project Owners:
+
 		Andrew Koerner
+		
 		Christopher Niemann
